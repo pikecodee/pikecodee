@@ -10,7 +10,7 @@
 ![Snake animation](https://raw.githubusercontent.com/pikecodee/pikecodee/output/github-snake.svg)
 ## 📖 Обо мне.
 
-[RU] Я пишу на  |  Python | CPP | Java | JavaScript | C# | Разработчик из RU.
+Я пишу на  |  Python | CPP | Java | JavaScript | C# | Разработчик из RU.
 
 Я разработчик плагинов для Майнкрафт, а так-же разработчик вспомогающих приложений для ПК.
 
