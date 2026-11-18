@@ -13,7 +13,7 @@
 Я пишу на  |  Python | CPP | Java | JavaScript | C# | Разработчик из RU.
 
 Я разработчик плагинов для Майнкрафт, а так-же разработчик вспомогающих приложений для ПК.
-
+Мой Cloud Delight - https://cloud-delight.ru/forum/members/218/
 ---
 
 ## 📂 Мои проекты
