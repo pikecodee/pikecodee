@@ -3,7 +3,6 @@
   <h3><span style="color:#58a6ff">Backend enthusiast</span></h3>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/pikecodee/pikecodee/output/github-snake.svg)
 ![Comet Graph](https://raw.githubusercontent.com/pikecodee/pikecodee/comet-graph/comet.svg)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=p1ka&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/pikecodee)
