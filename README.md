@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 Hello! I'm p1ka</h1>
+  <h3><span style="color:#58a6ff">Backend enthusiast</span></h3>
+</div>
 
-<!--
-**pikecodee/pikecodee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=p1ka&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ТВОЙ_НИК)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pikecode)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pikecodee)
+## 📖 About me
 
-Here are some ideas to get you started:
+I'm a **Python, C++ | Java | JS | C#** developer from Russia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a plugin developer for Minecraft, as well as a developer of various auxiliary applications for PCs. ..
+
+---
+
+## 📂 My projects
