@@ -7,7 +7,7 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=p1ka&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/pikecodee)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pikecode)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pikecodee)
+![Snake animation](https://raw.githubusercontent.com/pikecodee/pikecodee/output/github-snake.svg)
 ## 📖 About me
 
 I'm a **Python, C++ | Java | JS | C#** developer from Russia.
