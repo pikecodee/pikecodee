@@ -18,4 +18,4 @@ I am a plugin developer for Minecraft, as well as a developer of various auxilia
 ---
 
 ## 📂 My projects
-https://github.com/pikecodee/P1keMafiaGame
+Мафия на MC 26.3 PAPER - https://github.com/pikecodee/P1keMafiaGame
