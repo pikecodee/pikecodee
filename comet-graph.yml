@@ -1,0 +1,16 @@
+name: comet-graph
+on:
+  schedule:
+    - cron: "0 3 * * 1" # Раз в неделю
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+      - uses: kiaquila/comet-contribution-graph@v2
+        with:
+          username: ${{ github.repository_owner }}
